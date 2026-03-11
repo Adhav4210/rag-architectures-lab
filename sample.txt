@@ -1,0 +1,3 @@
+Python is powerful.
+AI is transforming the world.
+LangChain helps build AI apps.
